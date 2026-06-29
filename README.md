@@ -208,6 +208,12 @@ The annotations in `ami_public_manual_1.6.2/` are the official AMI manual annota
 
 ---
 
+## Acknowledgments
+
+This work was partially supported by the project HRIA: Romanian Hub for Artificial Intelligence, Smart Growth, Digitization and Financial Instruments Program, 2021–2027, MySMIS no. 334906 and DACISLab: Virtual Laboratory on Open Data and Open Science in the New Generation of Continuum Computing Systems, project number PN-IV-PCB-RO-MD-2024-0364, within PNCDI IV.
+
+---
+
 ## Citation
 
 ```bibtex
