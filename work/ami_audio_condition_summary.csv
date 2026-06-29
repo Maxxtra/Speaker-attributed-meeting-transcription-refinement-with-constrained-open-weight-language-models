@@ -1,0 +1,4 @@
+condition,meetings,files,meeting_hours,channel_hours,avg_speakers_per_meeting,min_speakers,max_speakers,total_reference_words,speech_hours,overlap_hours,avg_overlap_ratio
+Headset mix,143,143,77.63,77.63,4.02,4,5,732982,61.98,7.57,0.1185
+Individual headsets,143,575,77.63,314.1,4.02,4,5,732982,61.98,7.57,0.1185
+Microphone array,143,2189,77.63,1204.57,4.02,4,5,732982,61.98,7.57,0.1185

@@ -1,0 +1,46 @@
+audio_number,audio_path,text_reference,speaker_segments_reference,num_speakers,num_reference_segments,num_reference_words,source_audio_path
+ES2002a,/media/user/New Volume/datasets/AMI/work/audio_clips/ES2002a_first_180s.wav,"SPEAKER_00: Okay
+SPEAKER_00: Right
+SPEAKER_00: Um well this is the kick-off meeting for our our project Um and um this is just what we're gonna be doing over the next twenty five minutes
+SPEAKER_01: Mm-hmm
+SPEAKER_00: Um so first of all just to kind of make sure that we all know each other I'm Laura and I'm the project manager Do
+SPEAKER_01: Great
+SPEAKER_00: you want to introduce yourself again
+SPEAKER_02: Hi I'm David and I'm supposed to be an industrial designer
+SPEAKER_00: Okay
+SPEAKER_01: And I'm Andrew and I'm uh our marketing
+SPEAKER_03: Um
+SPEAKER_01: expert
+SPEAKER_03: I'm Craig and I'm User Interface
+SPEAKER_00: Great Okay Um so we're designing a new remote control and um Oh I have to record who's here actually So that's David Andrew and Craig isn't it
+SPEAKER_00: And you all arrived on time
+SPEAKER_00: Um yeah so des uh design a new remote control Um as you can see it's supposed to be original trendy and user friendly Um so that's kind of our our brief as it were Um and so there are three different stages to the design Um I'm not really sure what what you guys have already received um in your emails What did you get
+SPEAKER_02: Um I just got the project announcement about
+SPEAKER_00: Mm-hmm
+SPEAKER_02: what the project is Designing
+SPEAKER_01: Mm-hmm
+SPEAKER_02: a remote control That's about it
+SPEAKER_01: Mm-hmm
+SPEAKER_02: didn't
+SPEAKER_01: Yeah
+SPEAKER_02: get
+SPEAKER_01: that's
+SPEAKER_02: anything
+SPEAKER_01: that's
+SPEAKER_00: Is
+SPEAKER_02: else
+SPEAKER_00: that what
+SPEAKER_01: it
+SPEAKER_00: everybody
+SPEAKER_03: Yeah
+SPEAKER_02: Did
+SPEAKER_00: got
+SPEAKER_02: you get the same thing
+SPEAKER_00: Okay
+SPEAKER_01: Yeah
+SPEAKER_00: Um So we're gonna have like individual work and then a meeting about it And repeat that process three times Um and at this point we get try out the whiteboard over there Um So uh you get to draw your favourite animal and sum up your favourite characteristics of it So who would like to go
+SPEAKER_01: I
+SPEAKER_00: first
+SPEAKER_01: will go That's fine
+SPEAKER_00: Very good
+SPEAKER_01: Alright So","[{""start"": 50.42, ""end"": 50.99, ""speaker"": ""SPEAKER_00"", ""text"": ""Okay""}, {""start"": 53.56, ""end"": 53.96, ""speaker"": ""SPEAKER_00"", ""text"": ""Right""}, {""start"": 55.98, ""end"": 67.55, ""speaker"": ""SPEAKER_00"", ""text"": ""Um well this is the kick-off meeting for our our project Um and um this is just what we're gonna be doing over the next twenty five minutes""}, {""start"": 67.21, ""end"": 67.45, ""speaker"": ""SPEAKER_01"", ""text"": ""Mm-hmm""}, {""start"": 67.55, ""end"": 74.91, ""speaker"": ""SPEAKER_00"", ""text"": ""Um so first of all just to kind of make sure that we all know each other I'm Laura and I'm the project manager Do""}, {""start"": 74.89, ""end"": 75.24, ""speaker"": ""SPEAKER_01"", ""text"": ""Great""}, {""start"": 74.91, ""end"": 77.29, ""speaker"": ""SPEAKER_00"", ""text"": ""you want to introduce yourself again""}, {""start"": 77.44, ""end"": 80.87, ""speaker"": ""SPEAKER_02"", ""text"": ""Hi I'm David and I'm supposed to be an industrial designer""}, {""start"": 80.81, ""end"": 81.26, ""speaker"": ""SPEAKER_00"", ""text"": ""Okay""}, {""start"": 82.08, ""end"": 84.46, ""speaker"": ""SPEAKER_01"", ""text"": ""And I'm Andrew and I'm uh our marketing""}, {""start"": 85.99, ""end"": 87.17, ""speaker"": ""SPEAKER_03"", ""text"": ""Um""}, {""start"": 86.07, ""end"": 86.5, ""speaker"": ""SPEAKER_01"", ""text"": ""expert""}, {""start"": 87.17, ""end"": 88.71, ""speaker"": ""SPEAKER_03"", ""text"": ""I'm Craig and I'm User Interface""}, {""start"": 89.3, ""end"": 101.76, ""speaker"": ""SPEAKER_00"", ""text"": ""Great Okay Um so we're designing a new remote control and um Oh I have to record who's here actually So that's David Andrew and Craig isn't it""}, {""start"": 104.89, ""end"": 106.58, ""speaker"": ""SPEAKER_00"", ""text"": ""And you all arrived on time""}, {""start"": 108.96, ""end"": 132.03, ""speaker"": ""SPEAKER_00"", ""text"": ""Um yeah so des uh design a new remote control Um as you can see it's supposed to be original trendy and user friendly Um so that's kind of our our brief as it were Um and so there are three different stages to the design Um I'm not really sure what what you guys have already received um in your emails What did you get""}, {""start"": 132.57, ""end"": 135.18, ""speaker"": ""SPEAKER_02"", ""text"": ""Um I just got the project announcement about""}, {""start"": 135.08, ""end"": 135.44, ""speaker"": ""SPEAKER_00"", ""text"": ""Mm-hmm""}, {""start"": 135.18, ""end"": 137.37, ""speaker"": ""SPEAKER_02"", ""text"": ""what the project is Designing""}, {""start"": 137.12, ""end"": 137.39, ""speaker"": ""SPEAKER_01"", ""text"": ""Mm-hmm""}, {""start"": 137.37, ""end"": 139.15, ""speaker"": ""SPEAKER_02"", ""text"": ""a remote control That's about it""}, {""start"": 138.96, ""end"": 139.51, ""speaker"": ""SPEAKER_01"", ""text"": ""Mm-hmm""}, {""start"": 139.15, ""end"": 139.73, ""speaker"": ""SPEAKER_02"", ""text"": ""didn't""}, {""start"": 139.51, ""end"": 139.75, ""speaker"": ""SPEAKER_01"", ""text"": ""Yeah""}, {""start"": 139.73, ""end"": 139.84, ""speaker"": ""SPEAKER_02"", ""text"": ""get""}, {""start"": 139.75, ""end"": 140.07, ""speaker"": ""SPEAKER_01"", ""text"": ""that's""}, {""start"": 139.84, ""end"": 140.1, ""speaker"": ""SPEAKER_02"", ""text"": ""anything""}, {""start"": 140.07, ""end"": 140.36, ""speaker"": ""SPEAKER_01"", ""text"": ""that's""}, {""start"": 140.1, ""end"": 140.2, ""speaker"": ""SPEAKER_00"", ""text"": ""Is""}, {""start"": 140.1, ""end"": 140.77, ""speaker"": ""SPEAKER_02"", ""text"": ""else""}, {""start"": 140.2, ""end"": 140.46, ""speaker"": ""SPEAKER_00"", ""text"": ""that what""}, {""start"": 140.36, ""end"": 140.56, ""speaker"": ""SPEAKER_01"", ""text"": ""it""}, {""start"": 140.46, ""end"": 140.83, ""speaker"": ""SPEAKER_00"", ""text"": ""everybody""}, {""start"": 140.47, ""end"": 140.83, ""speaker"": ""SPEAKER_03"", ""text"": ""Yeah""}, {""start"": 140.77, ""end"": 140.87, ""speaker"": ""SPEAKER_02"", ""text"": ""Did""}, {""start"": 140.83, ""end"": 141.53, ""speaker"": ""SPEAKER_00"", ""text"": ""got""}, {""start"": 140.87, ""end"": 141.98, ""speaker"": ""SPEAKER_02"", ""text"": ""you get the same thing""}, {""start"": 141.53, ""end"": 142.66, ""speaker"": ""SPEAKER_00"", ""text"": ""Okay""}, {""start"": 141.8, ""end"": 141.95, ""speaker"": ""SPEAKER_01"", ""text"": ""Yeah""}, {""start"": 142.66, ""end"": 166.72, ""speaker"": ""SPEAKER_00"", ""text"": ""Um So we're gonna have like individual work and then a meeting about it And repeat that process three times Um and at this point we get try out the whiteboard over there Um So uh you get to draw your favourite animal and sum up your favourite characteristics of it So who would like to go""}, {""start"": 166.67, ""end"": 166.82, ""speaker"": ""SPEAKER_01"", ""text"": ""I""}, {""start"": 166.72, ""end"": 167.31, ""speaker"": ""SPEAKER_00"", ""text"": ""first""}, {""start"": 166.82, ""end"": 167.81, ""speaker"": ""SPEAKER_01"", ""text"": ""will go That's fine""}, {""start"": 167.84, ""end"": 168.84, ""speaker"": ""SPEAKER_00"", ""text"": ""Very good""}, {""start"": 174.2, ""end"": 176.69, ""speaker"": ""SPEAKER_01"", ""text"": ""Alright So""}]",4,45,302,/media/user/New Volume/datasets/AMI/amicorpus/ES2002a/audio/ES2002a.Mix-Headset.wav

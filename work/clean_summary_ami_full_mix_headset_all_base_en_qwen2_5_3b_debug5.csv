@@ -1,0 +1,4 @@
+method,norm_WER,norm_cpWER,token_precision,token_recall,token_F1,compression_ratio,source_excess_repetition,hyp_excess_repetition,repetition_reduction
+without_LM,0.3588,0.3485,0.8669,0.9015,0.8839,1.0,775.0,775.0,0.0
+qwen2_5_3b_instruct_zero_shot_chunked,0.8275,0.8319,0.8188,0.2847,0.4225,0.3301,775.0,188.0,0.7574
+qwen2_5_3b_instruct_one_shot_chunked,0.695,0.6992,0.9213,0.4313,0.5876,0.4525,775.0,382.0,0.5071

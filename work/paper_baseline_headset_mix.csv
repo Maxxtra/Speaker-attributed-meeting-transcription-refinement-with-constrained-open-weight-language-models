@@ -1,0 +1,2 @@
+audio_condition,method,diarization_model,asr_model,llm_model,meetings,WER,cpWER,DER,JER,Purity,Coverage,total_runtime_hours,mean_runtime_min_per_meeting
+Headset Mix,Pyannote + Whisper,pyannote/speaker-diarization-3.1,Whisper base.en,None,143,0.802,0.7902,0.1602,0.209,0.9114,0.8858,8.587,3.6029
